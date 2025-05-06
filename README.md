@@ -76,6 +76,7 @@ WorstCoin is a meme token with no utility, no value, and no promise of profit. I
 ## Links
 
 - Twitter: [@Worst_Coin](https://twitter.com/Worst_Coin)  
+- Telegram: https://t.me/WorstCoinCryptocurrency
 - Pump.fun Launch: [Launch Page](https://pump.fun/coin/6xPfLQLBYP33rURdtQbo2NeMxRnccVAgfmiAVpqXpump)  
 - Contract: `6xPfLQLBYP33rURdtQbo2NeMxRnccVAgfmiAVpqXpump`
 

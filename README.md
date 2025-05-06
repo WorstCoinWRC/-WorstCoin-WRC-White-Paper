@@ -1,5 +1,8 @@
 # -WorstCoin-WRC-White-Paper
 Official whitepaper of WorstCoin (WRC)
+
+WorstCoin_WhitePaper_FINAL.pdf
+
 # WorstCoin (WRC)
 
 **The WORST idea on Solana – and that’s exactly the point.**

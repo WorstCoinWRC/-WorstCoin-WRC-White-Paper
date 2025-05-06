@@ -1,7 +1,6 @@
 # -WorstCoin-WRC-White-Paper
 Official whitepaper of WorstCoin (WRC)
-
-WorstCoin_WhitePaper_FINAL.pdf
+https://github.com/WorstCoinWRC/-WorstCoin-WRC-White-Paper/blob/946948741bf701fd4e5e20684e15d8ac0f3db4cb/WorstCoin_WhitePaper_FINAL.pdf
 
 # WorstCoin (WRC)
 
